@@ -114,4 +114,4 @@ To run this project on your local machine, ensure you have Node.js installed.
    ```bash
    npm run dev
    ```
-4. **Access the Application:** Open your browser and navigate to the local host URL provided in the terminal (by default, it is usually `http://localhost:5173`).
+4. **Access the Application:** Open your browser and navigate to the  URL provided  ( it is  `https://finance-bay-mu.vercel.app/`).
